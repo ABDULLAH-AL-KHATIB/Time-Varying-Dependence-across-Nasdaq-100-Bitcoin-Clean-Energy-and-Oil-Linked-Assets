@@ -1,0 +1,7 @@
+column,description,units,notes
+Date,Observation date,YYYY-MM-DD,Common U.S. market dates
+Nasdaq100_ETF,QQQ close or licensed equivalent,price,ETF total/adjusted price field must be documented
+Bitcoin,BTC-USD close or licensed equivalent,price,Weekend BTC changes aggregate into next common U.S. trading date
+Clean_Energy_ETF,ICLN close or licensed equivalent,price,Global clean-energy equity ETF proxy
+Oil_Linked_ETF,USO close or licensed equivalent,price,Oil-futures-linked ETF proxy; not spot crude
+VIX,^VIX close or licensed equivalent,index,Option-implied expected volatility proxy

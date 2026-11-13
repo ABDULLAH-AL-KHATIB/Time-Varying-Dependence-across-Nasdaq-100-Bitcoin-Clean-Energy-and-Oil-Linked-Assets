@@ -1,0 +1,10 @@
+# Core, non-optional requirements for the DSCC + reduced-form QVAR analysis.
+# The market data are user-supplied and must be lawfully obtained.
+numpy==2.4.6
+pandas==2.2.3
+scipy==1.16.3
+statsmodels==0.15.0
+arch==9.0.0  # Required by HybridMetrics Phillips-Perron test
+matplotlib>=3.8,<4
+dscc==0.1.1
+# QVAR and HybridMetrics are installed from exact commits in install_core_repositories.py.

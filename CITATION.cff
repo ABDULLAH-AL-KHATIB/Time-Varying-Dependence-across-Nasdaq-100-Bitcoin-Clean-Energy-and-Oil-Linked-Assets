@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the software release and the methodological papers listed in the README."
+title: "Replication code for time-varying dependence across traded financial proxies"
+type: software
+authors:
+  - family-names: "Al Khatib"
+    given-names: "Abdullah Mohammad Ghazi"
+    affiliation: "Al-Sham Private University"
+    orcid: "https://orcid.org/0000-0002-1352-2348"
+version: "1.0.0"
+date-released: "2026-11-13"
+repository-code: "https://github.com/YOUR_GITHUB_USERNAME/IRFA-DSCC-QVAR-Replication"
+license: MIT
